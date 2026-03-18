@@ -1,0 +1,32 @@
+[
+    {
+        "name": "苹果",
+        "price": 5.99,
+        "description": "新鲜的苹果，口感脆甜。",
+        "category": "水果"
+    },
+    {
+        "name": "香蕉",
+        "price": 3.50,
+        "description": "成熟的香蕉，富含钾。",
+        "category": "水果"
+    },
+    {
+        "name": "牛奶",
+        "price": 6.80,
+        "description": "优质牛奶，营养丰富。",
+        "category": "乳制品"
+    },
+    {
+        "name": "面包",
+        "price": 8.50,
+        "description": "新鲜出炉的面包，松软可口。",
+        "category": "烘焙"
+    },
+    {
+        "name": "鸡蛋",
+        "price": 10.00,
+        "description": "新鲜鸡蛋，营养丰富。",
+        "category": "蛋类"
+    }
+]
